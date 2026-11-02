@@ -1,0 +1,2 @@
+# darksoul-list
+server list
